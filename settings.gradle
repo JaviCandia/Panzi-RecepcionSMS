@@ -1,0 +1,2 @@
+rootProject.name='Recepción de Mensaje'
+include ':app'
